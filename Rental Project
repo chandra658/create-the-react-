@@ -1,0 +1,58 @@
+
+# KL DriveNow – React Car Rental Project
+
+## Project Description
+
+KL DriveNow is a React-based Car Rental
+Management System.
+
+## Features
+
+- Home page
+- Explore available cars
+- Search and filter vehicles
+- Customer login
+- Admin login
+- Car booking
+- Pickup and return dates
+- Payment demo
+- Booking confirmation
+- Booking history
+- Admin dashboard
+- Vehicle availability management
+
+## Technologies
+
+- HTML
+- CSS
+- React JS
+- JavaScript
+- Vite
+- Lucide React
+- Browser Local Storage
+
+## Installation
+
+Open the project folder in Visual Studio Code.
+
+Run:
+
+npm install
+
+## Start Project
+
+npm run dev
+
+Open the local URL shown in the terminal.
+
+## Demo Admin Login
+
+Email: admin@drivenow.com
+
+Password: Any password with at least 4 characters.
+
+## Note
+
+This is a student demonstration project.
+Login and payment are simulated.
+Do not enter real passwords or card details.
